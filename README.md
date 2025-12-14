@@ -1,2 +1,2 @@
-# Ayudant-a-evaluaci-n-de-proyectos-inform-ticos
+# Ayudantia evaluacion de proyectos informaticos
 Clases realizadas para el ramo de evaluación de proyectos informáticos
